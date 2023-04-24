@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there, I'm Lewis! 👋
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Community_Wishlist_Survey_banner_FAQ.svg" width=550px height=100px/>
+<img align ="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Community_Wishlist_Survey_banner_FAQ.svg" width=750px/>
 
 I'm a Data Enthusiast and Tech for Good Advocate with a passion for Python, Veganism, and Mindfulness. Through my work, I aim to use technology to make the world a better place while taking care of our planet and promoting self-awareness.
 
